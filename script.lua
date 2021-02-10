@@ -1,5 +1,5 @@
 -- init
-local library = loadstring(game:HttpGet("https://paste.gg/p/anonymous/972061c4206d46c188883953196cbf29/files/540fc444ace140c4944edd3774813523/raw"))()
+local library = loadstring(game:HttpGet("https://paste.gg/p/StarShinee/62eb16ac1afa4ea186e5698cecf1b786/files/1665e65706a74545af01fc90706255c2/raw"))()
 local staygod = library.new("StayGod | Club V2", 5013109572)
 
 -- first page
